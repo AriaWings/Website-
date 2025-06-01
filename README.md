@@ -2,6 +2,7 @@
 
 1. Clone the repository.
 2. Install the dependencies.
+4. Testing the get repo.
 3. Run the development server.
 
 ## Contributing
